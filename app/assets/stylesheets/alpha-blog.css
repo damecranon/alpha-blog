@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+}
+
+li a {
+    display: block;
+    padding: 15px;
+    background-color: #dddddd;
+}
+
+h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+    font-size: 18pt;
+    color: #2E2F30;
+}
+
+h1.hometitle {
+    font-family: Arial;
+    font-size: 16pt;
+    color: navy;
+}
