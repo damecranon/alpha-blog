@@ -11,6 +11,10 @@ li {
     font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif;
 }
 
+li.error-message {
+
+}
+
 li a {
     display: block;
     padding: 15px;
