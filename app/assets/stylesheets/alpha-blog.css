@@ -32,3 +32,22 @@ h1.hometitle {
     font-size: 16pt;
     color: navy;
 }
+
+td.article-title {
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+td.article-description {
+   font-size: 12pt;
+    font-family: Arial;
+}
+
+
+
+a.editLink, a.newLink, a.showLink{
+    font-family: Arial;
+    font-size: 12pt;
+    color: navy;
+    text-decoration: none;
+}
