@@ -28,7 +28,6 @@
 
 #ignore the .idea directory
 .idea/*
-.idea/workspace.xml
-.idea/alpha-blog.iml
+
 
 .DS_Store

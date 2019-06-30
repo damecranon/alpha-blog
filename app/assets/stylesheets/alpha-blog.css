@@ -45,7 +45,7 @@ td.article-description {
 
 
 
-a.editLink, a.newLink, a.showLink{
+a.editLink, a.newLink, a.showLink, a.deleteLink{
     font-family: Arial;
     font-size: 12pt;
     color: navy;
