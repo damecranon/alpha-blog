@@ -1,2 +1,76 @@
+$navbar-default-bg: #00274C;
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: asset_url('team_imgs/touch_banner_2.jpg');
+  background-size: cover;
+  height: 800px;
+
+
+
+}
+
+.jumbotron h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.btn-xlarge {
+  font-size: 1.7em;
+  background-color: #00274C;
+  border-color: #fff;
+}
+
+footer {
+       margin-top: 45px;
+       padding-top: 5px;
+       border-top: 1px solid #00274C;
+       color: #00274C;
+}
+
+footer a:hover {
+  color: #00274C;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  text-decoration: none;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px;
+}
+
+.btn-warning:hover {
+  background-color: #FFCB05;
+  border-color: white;
+}
